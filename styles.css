@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(201, 201, 201);
+}
+
+#space {
+    height: 100px;
+}
+
+#container {
+    text-align: center;
+    vertical-align: middle;
+}
